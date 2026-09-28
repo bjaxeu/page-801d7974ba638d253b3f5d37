@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e7c1d31ec3c7a62cfc7a4be6",
+  "owner": "bjaxeu",
+  "repo": "page-801d7974ba638d253b3f5d37",
+  "title": "大哥云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "801d7974ba638d253b3f5d37",
+      "a": "大哥云",
+      "b": "",
+      "entity": "大哥云",
+      "brand": "大哥云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "91b5ff50f995b51d8b8207b1e84808f014e2134d23a5968de990394bd8038df7",
+      "content": {
+        "keyword1": "大哥云",
+        "keyword2": "",
+        "primary_entity": "大哥云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "大哥云提供安全稳定的VPN加速服务，多种套餐可选。官网客户端下载，助力畅享高速网络。",
+          "AI_DESCRIPTION": "大哥云提供安全稳定的VPN加速服务，多种套餐可选。官网客户端下载，助力畅享高速网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n<header class=\"container\">\n<nav>\n<div class=\"logo\">大哥云</div>\n<div>\n<a href=\"#intro\">品牌介绍</a>\n<a href=\"#plans\">套餐对比</a>\n<a href=\"#download\">客户端下载</a>\n<a href=\"#faq\">常见问题</a>\n</div>\n</nav>\n</header>\n<main class=\"container\">\n<h1>大哥云</h1>\n<section id=\"intro\">\n<h2>品牌简介</h2>\n<p>大哥云是一款专注于网络加速的VPN服务品牌，提供安全稳定的加速解决方案，帮助用户畅享高速网络体验。</p>\n</section>\n<section id=\"scenarios\">\n<h2>使用场景</h2>\n<p>适用于日常上网、在线视频观看、游戏加速以及企业级网络需求等场景，让您的网络连接更加顺畅。</p>\n</section>\n<section id=\"operations\">\n<h2>操作说明</h2>\n<p>使用大哥云非常简单：</p>\n<ul>\n<li>选择适合您的套餐并完成支付。</li>\n<li>下载客户端并进行安装。</li>\n<li>连接加速节点，即可享受高速网络服务。</li>\n</ul>\n</section>\n<section id=\"plans\">\n<h2>套餐对比</h2>\n{{PLANS_HTML}}\n</section>\n<section id=\"download\">\n<h2>客户端下载</h2>\n{{CLIENTS_HTML}}\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<details>\n<summary>大哥云提供哪些套餐？</summary>\n<p>大哥云提供基础版、旗舰版和团队版三种套餐，满足个人、家庭和企业不同需求。</p>\n</details>\n<details>\n<summary>大哥云支持多少流量？</summary>\n<p>每套餐有不同的每月极速流量限额，具体以套餐详情为准。</p>\n</details>\n<details>\n<summary>大哥云支持多少设备同时在线？</summary>\n<p>基础版支持3台设备，旗舰版支持5台，团队版支持20台。</p>\n</details>\n<details>\n<summary>旗舰版有哪些特色功能？</summary>\n<p>旗舰版提供全节点原生流媒体解锁、IPLC专线游戏加速优化和7x24优先工单支持。</p>\n</details>\n<details>\n<summary>如何获取更多帮助？</summary>\n<p>所有套餐均提供客户支持，团队版提供专属客户经理服务。</p>\n</details>\n</section>\n</main>\n\n",
+          "hash": "9ca2b528ea30c513a71d2e2a794e51b947b45ff33aadd65dac5b61f733ae5cef",
+          "seo": {
+            "title": "大哥云 - 安全VPN加速器 | 客户端下载",
+            "keywords": "大哥云,VPN加速器,客户端下载,机场加速,VPN",
+            "description": "大哥云提供安全稳定的VPN加速服务，多种套餐可选。官网客户端下载，助力畅享高速网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nllieab.cn",
+    "host": "m.nllieab.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "nllieab.cn",
+      "url": "https://nllieab.cn/",
+      "label": "东方网络",
+      "apex": "nllieab.cn",
+      "kind": null,
+      "identity": "apftndw/page-e79be08b0ae832f535ade811"
+    },
+    {
+      "host": "qcwle.cn",
+      "url": "https://qcwle.cn/",
+      "label": "大哥云",
+      "apex": "qcwle.cn",
+      "kind": null,
+      "identity": "eqjcuwagpuk/page-73a106389d0927af8ed8376b"
+    },
+    {
+      "host": "qiandad.cn",
+      "url": "https://qiandad.cn/",
+      "label": "大哥云",
+      "apex": "qiandad.cn",
+      "kind": null,
+      "identity": "qqeeuqvba/page-138ceb817b5a6a48fc6c4ba7"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "406f610a208a6dad99abdf08e3645dc9ce2cb550365d652a0e2697a5f39001b1",
+    "sitemap.xml": "e665cf4d7122620921f564e22317c865a66555a4822f64d94f345c619884a54b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bde1e68cb754c64d766271346324bc8113ff8ff4f8cae3372ed754fac44d2bc3",
+    "robots.txt": "f950c55de4bbc9b2ba030e539e1273b917d1c334465668123f7b383ad0ee0c4d",
+    "6eddd347588d6f51c8db7c352b9e90c1.txt": "6d02146980bb28fb935260d9d80b604b4d4042d9e653f0aacb402c97f83230c0"
+  },
+  "revision": "ef6ea9e7b3d9a5892e1e12af8d10386482d08e9d51dcde2c6bac2f6c9e12b239"
+}
